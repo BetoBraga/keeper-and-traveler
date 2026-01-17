@@ -16,19 +16,8 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-01-16 · The latch · 2/2**
+**2026-01-17 · The latch · 1/2**
 
 **Keeper** · What can you open without stepping through?
-
-**Traveler** · Even now, I remember who spoke first.
-
-**Your turn** · Argue for a second answer to the riddle.
-
-<details>
-<summary>Open the fold</summary>
-
-A conversation.
-
-</details>
 
 </details>
