@@ -16,8 +16,19 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-03-08 · The echo · 1/2**
+**2026-03-08 · The echo · 2/2**
 
 **Keeper** · What holds your words after you take them back?
+
+**Traveler** · My memory kept the apology you forgot making.
+
+**Your turn** · Find the choice the Keeper could have made differently.
+
+<details>
+<summary>Open the fold</summary>
+
+A witness.
+
+</details>
 
 </details>
