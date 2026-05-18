@@ -16,10 +16,19 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-05-18 · The lamp · 2/3**
+**2026-05-18 · The lamp · 3/3**
 
 **Keeper** · What do you spend by lighting someone else's way?
 
 **Traveler** · On the road, I saw your light before you saw me.
+
+**Your turn** · Find the choice the Keeper could have made differently.
+
+<details>
+<summary>Open the fold</summary>
+
+Time.
+
+</details>
 
 </details>
