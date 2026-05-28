@@ -16,19 +16,8 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-05-27 · The map · 2/2**
+**2026-05-28 · The map · 1/2**
 
 **Keeper** · What changes when you draw it from the other shore?
-
-**Traveler** · Coming from the far shore, I called your destination my beginning.
-
-**Your turn** · Find the choice the Keeper could have made differently.
-
-<details>
-<summary>Open the fold</summary>
-
-The way home.
-
-</details>
 
 </details>
