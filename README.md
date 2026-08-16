@@ -16,19 +16,8 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-08-15 · The gift · 2/2**
+**2026-08-16 · The gift · 1/3**
 
 **Keeper** · What can you repay by giving it to a stranger?
-
-**Traveler** · Later, I passed on what you gave me.
-
-**Your turn** · Find the choice the Keeper could have made differently.
-
-<details>
-<summary>Open the fold</summary>
-
-A kindness.
-
-</details>
 
 </details>
