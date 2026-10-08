@@ -16,7 +16,7 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-10-08 · The chair · 3/5**
+**2026-10-08 · The chair · 4/5**
 
 **Keeper** · How do you save a place for someone you haven't met?
 
