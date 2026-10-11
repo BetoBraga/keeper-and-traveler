@@ -16,19 +16,8 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-10-10 · The chair · 5/5**
+**2026-10-11 · The key · 1/2**
 
-**Keeper** · How do you save a place for someone you haven't met?
-
-**Traveler** · Entering the room, I took the empty chair as an invitation.
-
-**Your turn** · Tell it from the point of view of the person who stayed.
-
-<details>
-<summary>Open the fold</summary>
-
-Leave a chair empty.
-
-</details>
+**Keeper** · What should the last guest leave within reach?
 
 </details>
