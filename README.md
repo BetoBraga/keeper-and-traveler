@@ -16,7 +16,7 @@ last entry for each date, marked `n/n`.
 Oldest first, solve the Keeper's seven riddles. Newest first, take the
 Traveler's first letter once per chapter to find out what the key opens.
 
-**2026-10-30 · The key · 4/9**
+**2026-10-30 · The key · 5/9**
 
 **Keeper** · What should the last guest leave within reach?
 
